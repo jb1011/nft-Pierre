@@ -4,6 +4,7 @@ import { Redirect, Switch, Route } from 'react-router-dom';
 import Home from './pages/Home'
 import About from './pages/About';
 import Gallery from './pages/Gallery';
+import 'animate.css'
 
 function App() {
   return (
