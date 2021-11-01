@@ -1,4 +1,5 @@
 import React from 'react'
+import {NavLink} from 'react-router-dom';
 
 function Navbar() {
   return (
@@ -12,8 +13,9 @@ function Navbar() {
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
-                        <li class="nav-item"><a class="nav-link" href="#services">Gallery</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#portfolio">About</a></li>
+                        <li class="nav-item">
+                        <NavLink exact to="/Gallery" class="nav-link" >Gallery</NavLink></li>
+                        <li class="nav-item"><NavLink exact to="/About" class="nav-link" >About</NavLink></li>
                     </ul>
                 </div>
             </div>

@@ -5,9 +5,8 @@ function Hero() {
         <div>
         <header class="masthead">
             <div class="container">
-                <div class="masthead-subheading">Welcome To Our Studio!</div>
-                <div class="masthead-heading text-uppercase">It's Nice To Meet You</div>
-                <a class="btn btn-primary btn-xl text-uppercase" href="#services">Tell Me More</a>
+                <div class="masthead-subheading text-purple">Welcome To Our Studio!</div>
+                <div class="masthead-heading text-uppercase text-purple">It's Nice To Meet You</div>
             </div>
         </header>
 
