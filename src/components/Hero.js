@@ -6,7 +6,7 @@ function Hero() {
         <header class="masthead">
             <div class="container  content">
                 <div class="masthead-subheading text-purple txt-anton text " data-text="Welcome to the movement">Welcome to the movement</div>
-                <div class="masthead-heading text-uppercase text-purple txt-anton animate-fadein">The Halflings</div>
+                <div class="masthead-heading text-uppercase text-purple txt-anton animate-fadein text" data-text="The Halflings">The Halflings</div>
             </div>
         </header>
 
