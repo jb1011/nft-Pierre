@@ -5,6 +5,7 @@ import Cards from '../components/Cards'
 import Footer from '../components/Footer'
 import Drop from '../components/Drop'
 import Callforaction from '../components/Callforaction'
+import Presentation from '../components/Presentation'
 
 function Home() {
     return (
@@ -12,6 +13,7 @@ function Home() {
             <Navbar />
             <Hero />
             <Callforaction />
+            <Presentation />
             <Cards />
             <Drop />
             <Footer />
