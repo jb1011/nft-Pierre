@@ -4,7 +4,7 @@ import Card from './Card'
 function Cards() {
   return (
     <div>
-      <section class="page-section bg-dark " id="portfolio">
+      <section class="page-section" id="portfolio">
         <div class="container animate-fadein">
           <div class="text-center">
             <h2 class="section-heading text-uppercase text-purple">
