@@ -10,19 +10,18 @@ function Callforaction() {
               Lorem ipsum dolor sit amet consectetur.
             </h3>
             <div class="row p-2">
-                <div class="col align-self-center">
-              <button class="btn btn-primary">Invest now</button>
+              <div class="col align-self-center">
+                <button class="btn btn-primary">Invest now</button>
               </div>
             </div>
-            <div class="row p-2">
-            <div class="col align-self-center p-2">
-
-              <button class="btn btn-dark">
-                <i class="fab fa-discord"></i>Join Discord
-              </button>
-              <button class="btn btn-dark">
-                <i class="fab fa-twitter"></i>Join Twitter
-              </button>
+            <div class="row">
+              <div class="col align-self-center">
+                <button class="btn btn-dark">
+                  <i class="fab fa-discord"></i>Join Discord
+                </button>
+                <button class="btn btn-dark">
+                  <i class="fab fa-twitter"></i>Join Twitter
+                </button>
               </div>
             </div>
           </div>

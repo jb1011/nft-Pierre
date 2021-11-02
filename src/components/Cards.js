@@ -19,21 +19,21 @@ function Cards() {
               <Card
                 title="Carte 1"
                 text="Achete ce NFT"
-                img="https://www.lootproject.com/genesis.svg"
+                img="assets/img/pepite2.jpg"
               />
             </div>
             <div class="col-lg-4 col-sm-6 mb-4">
               <Card
                 title="Carte 2"
                 text="Achete ce NFT"
-                img="https://www.lootproject.com/genesis.svg"
+                img="assets/img/pepite2.jpg"
               />
             </div>
             <div class="col-lg-4 col-sm-6 mb-4">
               <Card
                 title="Carte 3"
                 text="Achete ce NFT"
-                img="https://www.lootproject.com/genesis.svg"
+                img="assets/img/pepite2.jpg"
               />
             </div>
             <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0"></div>
