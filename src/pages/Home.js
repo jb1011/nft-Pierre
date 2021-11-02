@@ -8,7 +8,7 @@ import Callforaction from '../components/Callforaction'
 
 function Home() {
     return (
-        <div>
+        <div class="craft-bg">
             <Navbar />
             <Hero />
             <Callforaction />

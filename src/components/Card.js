@@ -21,7 +21,7 @@ const Card = props => {
             />
           </a>
           <div class="portfolio-caption">
-            <div class="portfolio-caption-heading">{props.title}</div>
+            <div class="portfolio-caption-heading text-purple">{props.title}</div>
             <div class="portfolio-caption-subheading text-muted">
               {props.text}
             </div>

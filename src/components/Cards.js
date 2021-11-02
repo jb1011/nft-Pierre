@@ -3,7 +3,7 @@ import Card from './Card'
 
 function Cards() {
   return (
-    <div>
+    <div class="">
       <section class="page-section" id="portfolio">
         <div class="container animate-fadein">
           <div class="text-center">

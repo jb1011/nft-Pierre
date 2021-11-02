@@ -1,8 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Varela+Round&display=swap');
+
+$font-1: "Anton", sans-serif;
+
+.txt-anton {
+    font-family: $font-1;
+}
+
 .text-purple {
-    color: #cc01e5;
+    color: #800000;
+}
+
+.white-txt {
+    color: #fefee2;
+}
+
+.white-bg {
+    background-color: #f0f0f0;
 }
 
 .animate-fadein {
     animation: fadeIn;
     animation-duration: 5s;
+}
+
+.craft-bg {
+        text-align: center;
+        color: #fff;
+        background-image: url("../img/white-paper.jpg");
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-position: center center;
+        background-size: cover;
+}
+
+.flower-bg {
+    text-align: center;
+    color: #fff;
+    background-image: url("../img/flower-bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
 }
