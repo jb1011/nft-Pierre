@@ -2,7 +2,7 @@ import React from 'react'
 
 function Presentation() {
     return (
-        <div>
+        <div class="pt-5">
             <div class="container px-5">
                 <div class="row gx-5 align-items-center justify-content-center justify-content-lg-between">
                     <div class="col-12 col-lg-5">

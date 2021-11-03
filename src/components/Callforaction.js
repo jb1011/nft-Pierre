@@ -2,7 +2,7 @@ import React from 'react'
 
 function Callforaction() {
     return (
-      <div class="">
+      <div class="pb-5">
         <div class="container pt-5 ">
           <div class="text-center">
             <h2 class="section-heading text-uppercase text-purple txt-anton bigger p-3" data-text="Adop an Halflings">
