@@ -1,6 +1,15 @@
-import React from 'react'
+import React, { useEffect } from 'react'
+import Aos from "aos"
+import "aos/dist/aos.css"
 
 function Drop() {
+
+    useEffect(() => {
+        Aos.init({
+            duration: 2000
+        });
+    }, []);
+
     return (
         <div class="">
             <section class="page-section" id="about">
@@ -12,7 +21,7 @@ function Drop() {
                 <ul class="timeline">
                     <li>
                         <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/1.jpg" alt="..." /></div>
-                        <div class="timeline-panel">
+                        <div data-aos="fade-right"class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4 class="text-dark">25%</h4>
                                 <h4 class="text-dark">Our Humble Beginnings</h4>
@@ -22,7 +31,7 @@ function Drop() {
                     </li>
                     <li class="timeline-inverted">
                         <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/1.jpg" alt="..." /></div>
-                        <div class="timeline-panel">
+                        <div data-aos="fade-left" class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4 class="text-dark">50%</h4>
                                 <h4 class="subheading text-dark">An Agency is Born</h4>
@@ -32,7 +41,7 @@ function Drop() {
                     </li>
                     <li>
                         <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/1.jpg" alt="..." /></div>
-                        <div class="timeline-panel">
+                        <div data-aos="fade-right" class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4 class="text-dark">75%</h4>
                                 <h4 class="subheading text-dark">Transition to Full Service</h4>
@@ -42,7 +51,7 @@ function Drop() {
                     </li>
                     <li class="timeline-inverted">
                         <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/1.jpg" alt="..." /></div>
-                        <div class="timeline-panel">
+                        <div data-aos="fade-left" class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4 class="text-dark">100%</h4>
                                 <h4 class="subheading text-dark">Phase Two Expansion</h4>
