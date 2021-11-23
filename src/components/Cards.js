@@ -12,7 +12,7 @@ function Cards() {
 }, []);
 
   return (
-    <div data-aos="zoom-in">
+    <div data-aos="zoom-in" >
       <section class="page-section" id="portfolio">
         <div class="container animate-fadein">
           <div class="text-center">

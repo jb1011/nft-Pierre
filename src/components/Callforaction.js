@@ -16,15 +16,14 @@ function Callforaction() {
                 <button class="btn btn-primary">Invest now</button>
               </div>
             </div>
-            <div class="row">
-              <div class="col align-self-center">
-                <button class="btn btn-dark">
+            <div class="row justify-content-center">
+                <button class="col col-2 btn btn-dark">
                   <i class="fab fa-discord"></i>Join Discord
                 </button>
-                <button class="btn btn-dark">
+                <div class="col col-1"></div>
+                <button class="col col-2 btn btn-dark">
                   <i class="fab fa-twitter"></i>Join Twitter
                 </button>
-              </div>
             </div>
           </div>
         </div>
