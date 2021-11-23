@@ -28,13 +28,14 @@ $font-1: "Anton", sans-serif;
 }
 
 .craft-bg {
-        text-align: center;
-        color: #fff;
-        background-image: url("../img/white-paper.jpg");
-        background-repeat: no-repeat;
-        background-attachment: scroll;
-        background-position: center center;
-        background-size: cover;
+  background-color: rgb(255, 255, 255);
+        // text-align: center;
+        // color: rgb(31, 28, 28);
+        // background-image: url("../img/white-paper.jpg");
+        // background-repeat: no-repeat;
+        // background-attachment: scroll;
+        // background-position: center center;
+        // background-size: cover;
 }
 
 .flower-bg {
@@ -46,10 +47,6 @@ $font-1: "Anton", sans-serif;
     background-position: center center;
     background-size: cover;
 }
-
-
-
-
 
 .content .text{
     position: relative;

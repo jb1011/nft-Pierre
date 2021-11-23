@@ -6,7 +6,7 @@ function Navbar() {
     <div>
       <nav class="navbar navbar-expand-lg bg-light fixed-top" id="mainNav">
             <div class="container">
-                <NavLink exact to="/" class="navbar-brand text-purple" >HALFLINGS</NavLink>
+                <NavLink exact to="/" class="navbar-brand text-purple" >Matrix Myth</NavLink>
                 {/* <a class="navbar-brand" href="#page-top"><img src="assets/img/navbar-logo.svg" alt="..." /></a> */}
                 {/* <img class="mx-auto rounded-circle" src="" alt="..." /> */}
 

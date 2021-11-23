@@ -5,11 +5,11 @@ function Callforaction() {
       <div class="pb-5">
         <div class="container pt-5 ">
           <div class="text-center">
-            <h2 class="section-heading text-uppercase text-purple txt-anton bigger p-3" data-text="Adop an Halflings">
-              Adopt your Halfling
+            <h2 class="section-heading text-uppercase text-purple txt-anton bigger p-3">
+              Adopt your Myth
             </h2>
             <h3 class="section-subheading text-muted txt-anton">
-              you can join and buy quickly your own HALFLING. Click on the links below !
+              you can join and buy quickly your own Matrix Myth. Click on the links below !
             </h3>
             <div class="row p-2">
               <div class="col align-self-center">
